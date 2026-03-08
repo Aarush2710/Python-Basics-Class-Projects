@@ -1,0 +1,9 @@
+name='Aarush'
+print(name)
+_animal="Tiger" 
+print(_animal)
+num1=27
+num2=40
+print(num1+num2)
+first_name="Aarush" 
+print(first_name)
