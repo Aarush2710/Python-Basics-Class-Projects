@@ -1,0 +1,12 @@
+english=30
+hindi=27
+marathi=30
+maths=30
+sci=26
+ss=27
+com=29
+gk=29
+ve=29
+total=english+hindi+marathi+maths+sci+ss+com+gk+ve
+percatage=(total/270)*100
+print(percatage)
